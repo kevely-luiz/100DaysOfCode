@@ -1,5 +1,4 @@
 ## Desafio de 100 dias de código.
-## Um Projeto pequeno por dia.
 
 #### Dia 01 - Band Name Generator - Nivel Iniciante
 - Um Gerador de nome de banda com o nome do pet e da cidade em que nasceu.
